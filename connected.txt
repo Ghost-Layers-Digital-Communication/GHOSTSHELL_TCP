@@ -1,0 +1,5 @@
+==========================
+= CONNECTED =
+==========================
+Freq: TCP/IP
+Mode: Ghost Shell Active
