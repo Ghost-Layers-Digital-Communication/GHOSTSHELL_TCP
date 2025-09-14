@@ -2,7 +2,9 @@
 
 
 to run this program you must place a folder named GhostShell_TCP1 on your desktop
-inside that folder create another folder named ascii
+inside that folder create another folder named ascii and place the ascii files in it
+
+place payload td_script.py in GhostShell_TCP1
 
 edit both scripts with your user name and port you will be using. the code is commented.
 
